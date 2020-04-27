@@ -8,3 +8,6 @@ SOLUTION :-
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.1.8.RELEASE</version>
 	</parent>
+
+
+New line added
